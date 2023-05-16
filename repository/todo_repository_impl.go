@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"Back-end-API-GoLang-case-Todo-list/entity"
+	"todo-list/entity"
 
 	"gorm.io/gorm"
 )

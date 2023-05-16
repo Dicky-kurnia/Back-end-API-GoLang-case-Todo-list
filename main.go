@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Back-end-API-GoLang-case-Todo-list/config"
-	"Back-end-API-GoLang-case-Todo-list/controller"
-	"Back-end-API-GoLang-case-Todo-list/repository"
-	"Back-end-API-GoLang-case-Todo-list/service"
 	"log"
+	"todo-list/config"
+	"todo-list/controller"
+	"todo-list/repository"
+	"todo-list/service"
 
 	"github.com/gofiber/fiber/v2"
 )

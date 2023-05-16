@@ -1,9 +1,9 @@
 package service
 
 import (
-	"Back-end-API-GoLang-case-Todo-list/entity"
-	"Back-end-API-GoLang-case-Todo-list/model"
-	"Back-end-API-GoLang-case-Todo-list/repository"
+	"todo-list/entity"
+	"todo-list/model"
+	"todo-list/repository"
 )
 
 type todoItemService struct {

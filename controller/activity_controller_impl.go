@@ -1,12 +1,12 @@
 package controller
 
 import (
-	"Back-end-API-GoLang-case-Todo-list/entity"
-	"Back-end-API-GoLang-case-Todo-list/model"
-	"Back-end-API-GoLang-case-Todo-list/service"
 	"errors"
 	"fmt"
 	"strconv"
+	"todo-list/entity"
+	"todo-list/model"
+	"todo-list/service"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

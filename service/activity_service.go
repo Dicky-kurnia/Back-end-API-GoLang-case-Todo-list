@@ -1,8 +1,8 @@
 package service
 
 import (
-	"Back-end-API-GoLang-case-Todo-list/entity"
-	"Back-end-API-GoLang-case-Todo-list/model"
+	"todo-list/entity"
+	"todo-list/model"
 )
 
 type ServiceActivity interface {

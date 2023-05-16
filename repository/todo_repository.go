@@ -1,6 +1,6 @@
 package repository
 
-import "Back-end-API-GoLang-case-Todo-list/entity"
+import "todo-list/entity"
 
 type TodoItemRepository interface {
 	Create(item entity.Todo) (entity.Todo, error)
